@@ -1,0 +1,1 @@
+This is the basic setUp for every react-native project by "DREAM COADER INSTITUTE".
